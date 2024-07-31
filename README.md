@@ -56,8 +56,8 @@ A seasoned Fullstack Engineer with over 2 years of expertise in web and mobile a
 
 Feel free to reach out for collaboration, discussion, or just to say hi!
 
-[![Twitter](https://img.shields.io/badge/Twitter-%40parthdev-green)](https://twitter.com/parth_vaghani)
-[![Email](https://img.shields.io/badge/Email-send%20a%20message-red)](mailto:vaghani98@gmail.com)
+<!-- [![Twitter](https://img.shields.io/badge/Twitter-%40parthdev-green)](https://twitter.com/parth_vaghani) -->
+[![Email](https://img.shields.io/badge/Email-send%20a%20message-red)](mailto:koshiyapritesh21@gmail.com)
 
 Let's build something awesome but useful together! 🚀
 
