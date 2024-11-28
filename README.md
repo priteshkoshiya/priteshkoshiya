@@ -6,7 +6,7 @@
 Welcome to my page!
 I'm Pritesh, FullStack Software Engineer & Enthusiastic about open-source collaborative coding!.
 
-A seasoned Fullstack Engineer with over 2 years of expertise in web and mobile application development. Specializing in frontend, I excel in technologies like NextJs, ReactJS, VueJs, and more. On the mobile front, I'm proficient in React Native CLI, Expo, Fastlane, and Firebase. Backend development is a forte with skills in Node.js, NestJs, Express.js, Firebase, AWS, and GraphQL. Database design includes PostgreSQL, MongoDB, and more.
+A seasoned Fullstack Engineer with over 4 years of expertise in web and mobile application development. Specializing in frontend, I excel in technologies like NextJs, ReactJS, VueJs, and more. On the mobile front, I'm proficient in React Native CLI, Expo, Fastlane, and Firebase. Backend development is a forte with skills in Node.js, NestJs, Express.js, Firebase, AWS, and GraphQL. Database design includes PostgreSQL, MongoDB, and more.
 
 
 ## Things I code with
