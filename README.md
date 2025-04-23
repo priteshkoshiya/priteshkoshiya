@@ -20,10 +20,6 @@ A seasoned Fullstack Engineer with over 4 years of expertise in web and mobile a
           <img src="https://github.com/get-icon/geticon/raw/master/icons/ios.svg" width="24px" height="24px" />
           <img src="https://github.com/get-icon/geticon/raw/master/icons/aws.svg" width="24px" height="24px" />
           <img src="https://github.com/get-icon/geticon/raw/master/icons/postman.svg" width="24px" height="24px" />
-          <img src="https://github.com/get-icon/geticon/raw/master/icons/kafka.svg" width="24px" height="24px" />
-          <img src="https://github.com/get-icon/geticon/raw/master/icons/kubernetes.svg" width="24px" height="24px" />
-          <img src="https://github.com/get-icon/geticon/raw/master/icons/bash.svg" width="24px" height="24px" />
-          <img src="https://github.com/get-icon/geticon/raw/master/icons/docker-icon.svg" width="24px" height="24px" />
           <img src="https://github.com/get-icon/geticon/raw/master/icons/express.svg" width="24px" height="24px" />
           <img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" width="24px" height="24px" />
           <img src="https://github.com/get-icon/geticon/raw/master/icons/github-icon.svg" width="24px" height="24px" />
@@ -41,7 +37,6 @@ A seasoned Fullstack Engineer with over 4 years of expertise in web and mobile a
           <img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" width="24px" height="24px" />
           <img src="https://github.com/get-icon/geticon/raw/master/icons/npm.svg" width="24px" height="24px" />
           <img src="https://github.com/get-icon/geticon/raw/master/icons/prettier.svg" width="24px" height="24px" />
-          <img src="https://github.com/get-icon/geticon/raw/master/icons/puppeteer.svg" width="24px" height="24px" />
           <img src="https://github.com/get-icon/geticon/raw/master/icons/threejs.svg" width="24px" height="24px" />
           <img
             src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg"
